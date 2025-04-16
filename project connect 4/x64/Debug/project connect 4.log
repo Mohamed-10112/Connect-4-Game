@@ -1,0 +1,3 @@
+﻿  project connect 4.cpp
+C:\Users\Mohamed\source\repos\project connect 4\project connect 4\project connect 4.cpp(178,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project connect 4.vcxproj -> C:\Users\Mohamed\source\repos\project connect 4\x64\Debug\project connect 4.exe
